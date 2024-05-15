@@ -1,3 +1,5 @@
 *
 !.gitignore
 !profile_image_placeholder.jpg
+!flags/
+!flags/*
